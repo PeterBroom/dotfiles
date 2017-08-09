@@ -41,7 +41,7 @@ brew cask install --appdir="/Applications" slack
 brew cask install --appdir="/Applications" spotify
 brew cask install --appdir="/Applications" utorrent
 brew cask install --appdir="/Applications" vlc
-brew cask install --appdir="/Applications" soulseek
+
 # cleanup
 echo Cleaning up…
 brew cleanup --force
