@@ -15,6 +15,10 @@
 		"OmniSharp",
 		"Package Control",
 		"Sass",
-		"SideBarEnhancements"
-	]
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-php"
+		"vcs-gutter"
+	],
+	"theme": "El Capitan.sublime-theme"
 }
