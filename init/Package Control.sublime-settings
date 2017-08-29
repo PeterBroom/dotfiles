@@ -17,8 +17,9 @@
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeLinter",
-		"SublimeLinter-php"
-		"vcs-gutter"
+		"SublimeLinter-php",
+		"vcs-gutter",
+		"TrailingSpaces"
 	],
 	"theme": "El Capitan.sublime-theme"
 }

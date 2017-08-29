@@ -14,12 +14,12 @@ brew cask install --appdir="/Applications" flux
 
 # Browsers
 echo Installing browsers…
-brew cask install --appdir="/Applications" opera
-brew cask install --appdir="/Applications" firefox
-brew cask install --appdir="/Applications" firefox-nightly
 brew cask install --appdir="/Applications" google-chrome
 brew cask install --appdir="/Applications" google-chrome-canary
+brew cask install --appdir="/Applications" firefox
+brew cask install --appdir="/Applications" firefox-nightly
 brew cask install --appdir="/Applications" brave
+brew cask install --appdir="/Applications" opera
 
 # Development apps
 echo Installing dev apps…
