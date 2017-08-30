@@ -8,4 +8,4 @@ cp init/Preferences.sublime-settings ~/Library/Application\ Support/Sublime\ Tex
 # Copy Sublime package settings file
 cp init/Package\ Control.sublime-settings ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/
 # Copy Sublime Text key bindings
-cp init/Default\ (OSX).sublime-keymap ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/
+#cp init/Default\ (OSX).sublime-keymap ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/
