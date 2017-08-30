@@ -11,6 +11,7 @@ brew cask install --appdir="/Applications" iterm2
 brew cask install --appdir="/Applications" alfred
 brew cask install --appdir="/Applications" monity
 brew cask install --appdir="/Applications" flux
+brew cask install --appdir="/Applications" avast
 
 # Browsers
 echo Installing browsers…
