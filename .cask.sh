@@ -14,12 +14,11 @@ brew cask install --appdir="/Applications" flux
 
 # Browsers
 echo Installing browsers…
-brew cask install --appdir="/Applications" opera
-brew cask install --appdir="/Applications" firefox
-brew cask install --appdir="/Applications" firefox-nightly
 brew cask install --appdir="/Applications" google-chrome
 brew cask install --appdir="/Applications" google-chrome-canary
+brew cask install --appdir="/Applications" firefox
 brew cask install --appdir="/Applications" brave
+brew cask install --appdir="/Applications" opera
 
 # Development apps
 echo Installing dev apps…
@@ -30,7 +29,7 @@ brew cask install --appdir="/Applications" imageoptim
 brew cask install --appdir="/Applications" fontprep
 brew cask install --appdir="/Applications" mamp
 brew cask install --appdir="/Applications" tower
-brew cask install --appdir="/Applications" sublime-text3
+brew cask install --appdir="/Applications" sublime-text
 brew cask install --appdir="/Applications" textwrangler
 
 # Additional apps
