@@ -11,7 +11,7 @@ brew cask install --appdir="/Applications" iterm2
 brew cask install --appdir="/Applications" alfred
 brew cask install --appdir="/Applications" monity
 brew cask install --appdir="/Applications" flux
-brew cask install --appdir="/Applications" avast
+brew cask install --appdir="/Applications" avast-mac-security
 
 # Browsers
 echo Installing browsers…
@@ -31,7 +31,7 @@ brew cask install --appdir="/Applications" fontprep
 brew cask install --appdir="/Applications" mamp
 brew cask install --appdir="/Applications" tower
 brew cask install --appdir="/Applications" sublime-text
-brew cask install --appdir="/Applications" textwrangler
+brew cask install --appdir="/Applications" visual-studio-code
 
 # Additional apps
 echo Installing some additional apps…
