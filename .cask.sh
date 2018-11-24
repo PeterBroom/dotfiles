@@ -28,10 +28,9 @@ brew cask install --appdir="/Applications" filezilla
 brew cask install --appdir="/Applications" imagealpha
 brew cask install --appdir="/Applications" imageoptim
 brew cask install --appdir="/Applications" fontprep
-brew cask install --appdir="/Applications" mamp
 brew cask install --appdir="/Applications" tower
-brew cask install --appdir="/Applications" sublime-text
 brew cask install --appdir="/Applications" visual-studio-code
+brew cask install --appdir="/Applications" visual-studio-comunity
 
 # Additional apps
 echo Installing some additional apps…
