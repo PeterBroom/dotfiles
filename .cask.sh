@@ -28,6 +28,7 @@ brew cask install --appdir="/Applications" imagealpha
 brew cask install --appdir="/Applications" imageoptim
 brew cask install --appdir="/Applications" fontprep
 brew cask install --appdir="/Applications" tower
+brew cask install --appdir="/Applications" monity-helper
 brew cask install --appdir="/Applications" visual-studio-code
 brew cask install --appdir="/Applications" visual-studio-comunity
 
