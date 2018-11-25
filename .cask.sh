@@ -7,7 +7,7 @@ echo Installing core apps…
 brew cask install --appdir="/Applications" google-drive
 brew cask install --appdir="/Applications" iterm2
 brew cask install --appdir="/Applications" alfred
-brew cask install --appdir="/Applications" monity
+brew cask install --appdir="/Applications" monity-helper
 brew cask install --appdir="/Applications" flux
 brew cask install --appdir="/Applications" avast-mac-security
 
